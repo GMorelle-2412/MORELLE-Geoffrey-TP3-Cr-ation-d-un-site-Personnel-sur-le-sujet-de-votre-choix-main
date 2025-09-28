@@ -34,6 +34,8 @@ span{
     background-size: cover;
     margin-bottom: 0;
     text-align: left;
+    height: 10vh;
+    align-content: center;
 }
 
 p{
